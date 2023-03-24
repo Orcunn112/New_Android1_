@@ -32,3 +32,4 @@ public class _LongPress extends BaseTest {
         Assert.assertTrue(driver.findElement(By.id("android:id/title")).isDisplayed());
     }
 }
+//
