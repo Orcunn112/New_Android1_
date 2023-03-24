@@ -10,6 +10,7 @@ import java.net.URL;
 public class _General_Store_Yukleme {
     @Test
     public void GeneralStoreDownload() throws MalformedURLException {
+        //
 
         UiAutomator2Options options=new UiAutomator2Options();
         options.setDeviceName("ORC1A");

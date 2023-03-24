@@ -16,7 +16,7 @@ public class _LongPress extends BaseTest {
     @Test
     public void LongPressGesture() throws MalformedURLException, InterruptedException {
 
-
+//
         driver.findElement(AppiumBy.accessibilityId("Views")).click();
         driver.findElement(By.xpath("//android.widget.TextView[@content-desc='Expandable Lists']")).click();
         driver.findElement(AppiumBy.accessibilityId("1. Custom Adapter")).click();

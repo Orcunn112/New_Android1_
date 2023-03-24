@@ -14,3 +14,4 @@ public class AppiumBasics extends BaseTest{
         driver.findElement(By.xpath("//android.widget.TextView[@content-desc=\"4. Default values\"]")).click();
     }
 }
+//
