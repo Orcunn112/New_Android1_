@@ -19,6 +19,7 @@ public class _1Appium_ extends BaseTest {
     public void AppTest() throws MalformedURLException, InterruptedException {
 
 /////
+        //////// testing
         //tagName[@attribute='value']
         driver.findElement(AppiumBy.accessibilityId("Preference")).click();
         driver.findElement(By.xpath("//android.widget.TextView[@content-desc='3. Preference dependencies']")).click();
