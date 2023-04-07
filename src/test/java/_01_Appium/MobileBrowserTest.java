@@ -7,7 +7,7 @@ import org.openqa.selenium.Keys;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class MobileBrowserTest extends BrowserBaseTest{
+public class MobileBrowserTest extends BrowserBaseTest{//
 
     @Test
     public void browserTest()

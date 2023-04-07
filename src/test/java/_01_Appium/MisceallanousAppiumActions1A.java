@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.net.MalformedURLException;
 
-public class MisceallanousAppiumActions1A extends BaseTest{
+public class MisceallanousAppiumActions1A extends BaseTest{//
     @Test
     public void Miscellanous() throws MalformedURLException, InterruptedException {
 

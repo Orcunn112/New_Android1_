@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import java.net.MalformedURLException;
 
-public class ScrollDemo_Long extends BaseTest {
+public class ScrollDemo_Long extends BaseTest {//
 
     @Test
     public void ScrollDemoTest() throws MalformedURLException, InterruptedException {

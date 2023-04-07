@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.net.MalformedURLException;
 
-public class SwipeDemo extends BaseTest {
+public class SwipeDemo extends BaseTest {//
     @Test
     public void SwipeDemoTest() throws MalformedURLException, InterruptedException {
 

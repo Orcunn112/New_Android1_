@@ -13,7 +13,7 @@ import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class _1Appium_ extends BaseTest {
+public class _1Appium_ extends BaseTest { //
 
     @Test
     public void AppTest() throws MalformedURLException, InterruptedException {

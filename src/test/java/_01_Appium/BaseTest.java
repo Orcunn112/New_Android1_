@@ -48,6 +48,7 @@ public class BaseTest {
                         "duration",2000));
     }
 
+
     public void scrollToEndAction() {
         boolean canScrollMore;
         do {

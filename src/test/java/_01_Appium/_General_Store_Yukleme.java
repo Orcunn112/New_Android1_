@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class _General_Store_Yukleme {
+public class _General_Store_Yukleme {//
     @Test
     public void GeneralStoreDownload() throws MalformedURLException {
         //

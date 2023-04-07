@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.net.MalformedURLException;
 
-public class _LongPress extends BaseTest {
+public class _LongPress extends BaseTest {//
 
     @Test
     public void LongPressGesture() throws MalformedURLException, InterruptedException {

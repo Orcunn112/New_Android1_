@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.Test;
 
-public class Testing extends BrowserBaseTest{
+public class Testing extends BrowserBaseTest{//
 
     @Test
     public void Test1() throws InterruptedException {
